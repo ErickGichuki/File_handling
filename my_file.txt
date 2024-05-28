@@ -1,0 +1,6 @@
+Today we're learning about file handling. 
+When you want to write you have to open first. 
+Happy coding! 
+Js is the language for me. 
+Python is an OOP. 
+SQL does it! 
